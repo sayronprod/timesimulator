@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/timesimulator/static/css/main.9c53e862.css",
+    "main.js": "/timesimulator/static/js/main.256f0627.js",
+    "static/js/787.28cb0dcd.chunk.js": "/timesimulator/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/timesimulator/index.html",
+    "main.9c53e862.css.map": "/timesimulator/static/css/main.9c53e862.css.map",
+    "main.256f0627.js.map": "/timesimulator/static/js/main.256f0627.js.map",
+    "787.28cb0dcd.chunk.js.map": "/timesimulator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c53e862.css",
+    "static/js/main.256f0627.js"
+  ]
+}
