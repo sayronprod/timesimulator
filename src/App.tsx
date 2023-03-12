@@ -29,6 +29,7 @@ function App() {
   const [timer, setTimer] = useState<NodeJS.Timer | null>(null);
 
   const startSimulator = () => {
+    setIsPause(false);
     setRealTimeSeconds(0);
     setGameTimeSeconds(gameTimeSecondsStart);
     setTimer(
